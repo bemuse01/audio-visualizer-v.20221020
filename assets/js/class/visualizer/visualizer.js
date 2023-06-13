@@ -80,7 +80,7 @@ export default class{
         }
     }
     initGPU(){
-        this.gpu = new GPU()
+        this.gpu = new GPU.GPU()
     }
 
 
